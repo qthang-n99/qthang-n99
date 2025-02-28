@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Thuong! 👋
 
-<!--
-**qthang-n99/qthang-n99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and building awesome projects. Here's a little about me:
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on **exciting web and software development projects**
+- 🌱 I’m always learning new technologies, currently diving deeper into **full-stack development**
+- 👯 I’m looking to collaborate on **open-source projects and innovative ideas**
+- 🤔 I’m open to discussing anything tech-related, so feel free to reach out!
+- ⚡ Fun fact: **I love exploring new programming languages and frameworks!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, Java, C++
+- **Frameworks & Libraries:** React, Node.js, Express, Next.js, TailwindCSS
+- **Databases:** MongoDB, PostgreSQL, Firebase
+- **Tools & Platforms:** Git, Docker, Vercel, AWS, Linux
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=qthang-n99&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qthang-n99&layout=compact&theme=radical)
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 🌍 [Portfolio](https://yourportfolio.com/)
+- ✉️ Email: qthang.n99@gmail.com
+
+Thanks for visiting my profile! 😊🚀
