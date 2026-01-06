@@ -1,4 +1,4 @@
-## Hi there, I'm Thuong! 👋
+## Hi there, I'm Thang! 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and building awesome projects. Here's a little about me:
 
